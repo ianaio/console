@@ -23,5 +23,5 @@ features = ["console", "Document"]
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3.4"
-ianaio-timers = { version = "0.3.0", path = "../timers" }
+ianaio-timers = { version = "0.1.0", path = "../timers" }
 
